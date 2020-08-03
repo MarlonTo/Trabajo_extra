@@ -27,4 +27,4 @@ Lo s componentes utilizados son los siguientes: plataforma Visuino, IDE Arduino,
 ## 11. BIBLIOGRAFÍA:
 García Cobo, J. (n.d.). Visuino, una herramienta de programación para los creadores de hardware. Retrieved August 2, 2020, from https://www.hwlibre.com/visuino-una-herramienta-de-programacion-para-los-creadores-de-hardware/
 ## 12. ANEXOS
-![](ANEXOS/Imagen del codigo.jpg)
+![](Anexos/Imagen del codigo.jpg)
