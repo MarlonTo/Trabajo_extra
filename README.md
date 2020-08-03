@@ -17,4 +17,13 @@ Visuino incorpora bastantes cosas positivas como la preselección de la placa Ar
 Esto está muy bien, pero Visuino aún no llega al IDE oficial de Arduino. Por un lado Visuino sólo está disponible para Windows, frente las otras plataformas para las que el IDE de Arduino si que está. Además Visuino es de pago, algo que no ocurre con el IDE de Arduino. La empresa que ha creado Visuino se llama Mitov Software, una empresa que si bien apoya al proyecto Arduino, no es una empresa oficial por lo que a la hora de programar no es lo mismo que el IDE de Arduino que si es oficial.
 
 Visuino por el momento sólo está para Windows
-Aún así, hemos de reconocer que Visuino plantea un nuevo paradigma en la programación del hardware libre ya que su manera de funcionamiento agiliza bastante el trabajao del amante del hardware y por otro lado nos permite copiar y reutilizar código que en algunos casos otras herramientas no hacen. Desde luego a Visuino le queda mucho por hacer si quiere ser la herramienta que use la mayoría de los programadores, pero desde luego no va por mal camino ¿ no creéis?
+Aún así, hemos de reconocer que Visuino plantea un nuevo paradigma en la programación del hardware libre ya que su manera de funcionamiento agiliza bastante el trabajao del amante del hardware y por otro lado nos permite copiar y reutilizar código que en algunos casos otras herramientas no hacen. Desde luego a Visuino le queda mucho por hacer si quiere ser la herramienta que use la mayoría de los programadores, pero desde luego no va por mal camino(García Cobo, n.d.)
+## 5. LISTA DE COMPONENTES
+Lo s componentes utilizados son los siguientes: plataforma Visuino, IDE Arduino,Placa Arduino UNO,Pantalla LCD de16 columnas y 2 líneas, Pulsador digital, 2 resistencias de 10k ohmios, Protoboard y cables de conexión
+## 6. MAPA DE VARIABLES
+## 7. APORTACIONES
+## 8. CONCLUSIONES
+## 9. RECOMENDACIONES
+## 11. BIBLIOGRAFÍA:
+García Cobo, J. (n.d.). Visuino, una herramienta de programación para los creadores de hardware. Retrieved August 2, 2020, from https://www.hwlibre.com/visuino-una-herramienta-de-programacion-para-los-creadores-de-hardware/
+## 12. ANEXOS
