@@ -48,11 +48,13 @@ Elementos de Hardware:
 ![](Anexos/lcd.jpg)
 
 *	Un Pulsador Digital.
-![](Anexos/.jpg)
+![](Anexos/pulsador.jpg)
 
 *	Varios Cables de conexión
+![](Anexos/cables.jpg)
 
 *	2 resistencias de 300KOhmios
+![](Anexos/resistencia.jpg)
 
 Placa ARDUINO UNO
 
