@@ -99,6 +99,9 @@ Para proyectos pequeños y proyectos educativos es una herramienta muy recomenda
 
 No se debería utilizar VISUINO si se desea manipular el código fuente generado, la estructura es bastante compleja encadenando muchas funciones.
 ## 11. BIBLIOGRAFÍA:
+Arduino - Software. (n.d.). Retrieved August 4, 2020, from https://www.arduino.cc/en/main/software
+Fritzing. (n.d.). Retrieved August 4, 2020, from https://fritzing.org/
+Visuino - Visual Development for Arduino by Mitov Software. (n.d.). Retrieved August 4, 2020, from https://www.visuino.com/
 García Cobo, J. (n.d.). Visuino, una herramienta de programación para los creadores de hardware. Retrieved August 2, 2020, from https://www.hwlibre.com/visuino-una-herramienta-de-programacion-para-los-creadores-de-hardware/
 ## 12. ANEXOS
 Anexo 1:
