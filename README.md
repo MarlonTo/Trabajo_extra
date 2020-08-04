@@ -48,7 +48,7 @@ Elementos de Hardware:
 ![](Anexos/lcd.jpg)
 
 *	Un Pulsador Digital.
-![](pulsador/lcd.jpg)
+![](Anexos/.jpg)
 
 *	Varios Cables de conexión
 
