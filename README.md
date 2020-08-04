@@ -14,7 +14,8 @@ VISUINO es un software innovador de la casa de Software Mitov Software. Es un en
 El ambiente de desarrollo es un generador de código, es decir una vez realizado el proyecto interconectando los elementos gráficos, este puede ser ejecutado directamente en la placa seleccionada sin necesidad de que el diseñador del programa adicione ninguna línea de código. De esta manera se reduce de manera significativa el tiempo de desarrollo de un programa por su diseño simplificado y al no necesitar de profesionales especializados en el manejo del código 
 ### Tema: Tutorial para simular arduino con componentes de video.
 ## 4.MARCO TEÓRICO
-EElementos de VISUINO
+Elementos de VISUINO
+
 Barra de Herramientas, en esta se encuentran ubicadas las funciones principales del IDE,
 ![](Anexos/Parte1.jpg)
 Entre las funciones más importantes de esta barra están el envío del programa directo a la Placa o el envío al IDE de Arduino.
