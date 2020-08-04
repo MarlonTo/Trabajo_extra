@@ -45,9 +45,9 @@ A continuación, se muestra una gráfica con todos los elementos del IDE VISUINO
 ## 5. LISTA DE COMPONENTES
 Para la construcción de un programa que utilice una pantalla LDC de 16 líneas y 2 columnas se utilizaron elementos de Software y Hardware que a continuación se enumeran y detallan.
 Elementos de Software:
-•	Para el diseño esquemático de la solución: Programa FRITZING
-•	Para el diseño de la Aplicación: IDE VISUINO
-•	Para la compilación y carga del programa IDE de ARDUINO
+*	Para el diseño esquemático de la solución: Programa FRITZING
+*	Para el diseño de la Aplicación: IDE VISUINO
+*	Para la compilación y carga del programa IDE de ARDUINO
 FRITZING
 Es una iniciativa de hardware de código abierto que hace que la electrónica sea accesible como material creativo para cualquier persona. Es una herramienta de software, un sitio web comunitario y de servicios en el espíritu de Procesamiento para Arduino, fomentando un ecosistema creativo que permite a los usuarios documentar sus prototipos, compartirlos con otros, enseñar electrónica en un aula y diseñar y fabricar pcbs profesionales.
 En el Anexo 1 se puede observar el diseño esquemático del Proyecto.
@@ -80,9 +80,9 @@ Explicación de la Solución:
 El programa muestra en la primera línea de  la Pantalla el nombre del desarrollador de forma permanente.
 En la segunda línea de la Pantalla se muestra un contador (número) el cual se incrementa en uno cada vez que se presiona el pulsador digital.
 Para implementar esta explicación se utilizó los siguientes elementos gráficos del VISUINO:
-•	Placa Arduino Uno.
-•	Un LiquidCrystalDisplay
-•	Un Counter.
+*	Placa Arduino Uno.
+*	Un LiquidCrystalDisplay
+*	Un Counter.
 La interconexión de estos elementos es la siguiente:
 En la pantalla LCD insertamos dos elementos un TextField (nombre=Programador) y un IntegerField (nombre=Contador), el primero se utiliza para desplegar el nombre del Programador y el segundo para desplegar el contador.
 Para enviar la información a la pantalla LCD conectamos los Pines 4, 5, 6,7 del Arduino a los pines Data4, Data5, Data6 y Data7 de la Pantalla LCD. 
