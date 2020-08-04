@@ -48,9 +48,14 @@ Elementos de Hardware:
 ![](Anexos/lcd.jpg)
 
 *	Un Pulsador Digital.
+![](pulsador/lcd.jpg)
+
 *	Varios Cables de conexión
+
 *	2 resistencias de 300KOhmios
+
 Placa ARDUINO UNO
+
 En el Anexo 2 se puede observar una gráfica del circuito interconectado y en funcionamiento.
 ## 6.Diseño del Programa en VISUINO
 Para construir la aplicación que utilice una pantalla LCD se ha tomado como idea el desarrollo de un CONTADOR DE VUELTAS QUE SE MUESTRE EN UNA PANTALLA LCD.
