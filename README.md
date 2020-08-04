@@ -117,10 +117,10 @@ Visuino - Visual Development for Arduino by Mitov Software. (n.d.). Retrieved Au
 García Cobo, J. (n.d.). Visuino, una herramienta de programación para los creadores de hardware. Retrieved August 2, 2020, from https://www.hwlibre.com/visuino-una-herramienta-de-programacion-para-los-creadores-de-hardware/
 ## 12. ANEXOS
 Anexo 1:
-![](Anexos/anexo1.jpg)
+![](Anexos/anexo1.JPG)
 Diseño esquemático
-![](Anexos/anexo2.jpg)
+![](Anexos/anexo2.JPG)
 Anexo 2:
-![](Anexos/anexo3.jpg)
+![](Anexos/anexo3.JPG)
 Anexo 3:
 
