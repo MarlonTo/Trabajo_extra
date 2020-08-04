@@ -24,7 +24,7 @@ Entre las funciones más importantes de esta barra están el envío del programa
 
 Barra de Navegación, en esta se encuentra nuestra placa de Arduino en conjunto con todos los elementos gráficos que componen nuestro proyecto. Estos elementos se los ven de manera resumida en el tamaño.
 
-![](Anexos/Parte4.JPG)
+![](Anexos/Parte1.JPG)
 
 Panel de Propiedades, Cada uno de los elementos gráficos que se incluyen en el proyecto puede hacer uso del Panel de Propiedades, aquí se despliegan las propiedades intrínsecas de cada elemento.
 
@@ -34,10 +34,11 @@ Menú de Componentes, Está compuesta de todos componentes gráficos que dispone
 
 Área de Trabajo, En esta área realizamos la interconexión de todos los elementos gráficos de nuestro proyecto, está la Placa Arduino y los componentes del Proyecto interconectados mediante líneas que representan el flujo de datos.
 
-![](Anexos/Parte5.JPG)
+
 
 A continuación, se muestra una gráfica con todos los elementos del IDE VISUINO.
 
+![](Anexos/Parte5.JPG)
 
 ## 5. LISTA DE COMPONENTES
 Para la construcción de un programa que utilice una pantalla LDC de 16 líneas y 2 columnas se utilizaron elementos de Software y Hardware que a continuación se enumeran y detallan.
