@@ -28,7 +28,7 @@ Barra de Navegación, en esta se encuentra nuestra placa de Arduino en conjunto 
 
 Panel de Propiedades, Cada uno de los elementos gráficos que se incluyen en el proyecto puede hacer uso del Panel de Propiedades, aquí se despliegan las propiedades intrínsecas de cada elemento.
 
-![](Anexos/Parte2.JPG)
+![](Anexos/Parte3.JPG)
 
 Menú de Componentes, Está compuesta de todos componentes gráficos que dispone y pone a disposición el IDE de VISUINO, por ejemplo, aquí se encuentra la Pantalla LCD que vamos a utilizar en este proyecto.
 
