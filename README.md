@@ -40,7 +40,7 @@ Menú de Componentes, Está compuesta de todos componentes gráficos que dispone
 
 A continuación, se muestra una gráfica con todos los elementos del IDE VISUINO.
 
-
+![](Anexos/Parte5.JPG)
 
 ## 5. LISTA DE COMPONENTES
 Para la construcción de un programa que utilice una pantalla LDC de 16 líneas y 2 columnas se utilizaron elementos de Software y Hardware que a continuación se enumeran y detallan.
