@@ -22,6 +22,8 @@ Barra de Herramientas, en esta se encuentran ubicadas las funciones principales 
 
 Entre las funciones más importantes de esta barra están el envío del programa directo a la Placa o el envío al IDE de Arduino.
 
+![](Anexos/menu.jpg)
+
 Barra de Navegación, en esta se encuentra nuestra placa de Arduino en conjunto con todos los elementos gráficos que componen nuestro proyecto. Estos elementos se los ven de manera resumida en el tamaño.
 
 ![](Anexos/Parte1.JPG)
@@ -32,13 +34,15 @@ Panel de Propiedades, Cada uno de los elementos gráficos que se incluyen en el 
 
 Menú de Componentes, Está compuesta de todos componentes gráficos que dispone y pone a disposición el IDE de VISUINO, por ejemplo, aquí se encuentra la Pantalla LCD que vamos a utilizar en este proyecto.
 
+![](Anexos/Parte2.JPG)
+
 Área de Trabajo, En esta área realizamos la interconexión de todos los elementos gráficos de nuestro proyecto, está la Placa Arduino y los componentes del Proyecto interconectados mediante líneas que representan el flujo de datos.
 
 
 
 A continuación, se muestra una gráfica con todos los elementos del IDE VISUINO.
 
-![](Anexos/Parte5.JPG)
+
 
 ## 5. LISTA DE COMPONENTES
 Para la construcción de un programa que utilice una pantalla LDC de 16 líneas y 2 columnas se utilizaron elementos de Software y Hardware que a continuación se enumeran y detallan.
