@@ -40,12 +40,16 @@ IDE de ARDUINO
 El software Arduino de código abierto (IDE) hace que sea fácil escribir código y subirlo a la placa. Se ejecuta en Windows, Mac OS X y Linux. El entorno está escrito en Java y se basa en el procesamiento y otro software de código abierto.
 Este software se puede usar con cualquier placa Arduino.
 Elementos de Hardware:
-•	Una Placa Arduino UNO
+
+*	Una Placa Arduino UNO
 ![](Anexos/arduino.jpg)
-•	Pantalla LCD 16x2
-•	Un Pulsador Digital.
-•	Varios Cables de conexión
-•	2 resistencias de 300KOhmios
+
+*	Pantalla LCD 16x2
+![](Anexos/lcd.jpg)
+
+*	Un Pulsador Digital.
+*	Varios Cables de conexión
+*	2 resistencias de 300KOhmios
 Placa ARDUINO UNO
 En el Anexo 2 se puede observar una gráfica del circuito interconectado y en funcionamiento.
 ## 6.Diseño del Programa en VISUINO
