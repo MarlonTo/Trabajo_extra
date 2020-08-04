@@ -18,8 +18,6 @@ Elementos de VISUINO
 
 Barra de Herramientas, en esta se encuentran ubicadas las funciones principales del IDE,
 
-![](Anexos/Parte1.JPG)
-
 Entre las funciones más importantes de esta barra están el envío del programa directo a la Placa o el envío al IDE de Arduino.
 
 ![](Anexos/menu.JPG)
