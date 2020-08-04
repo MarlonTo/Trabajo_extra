@@ -36,7 +36,7 @@ Menú de Componentes, Está compuesta de todos componentes gráficos que dispone
 
 Área de Trabajo, En esta área realizamos la interconexión de todos los elementos gráficos de nuestro proyecto, está la Placa Arduino y los componentes del Proyecto interconectados mediante líneas que representan el flujo de datos.
 
-
+![](Anexos/Parte4.JPG)
 
 A continuación, se muestra una gráfica con todos los elementos del IDE VISUINO.
 
