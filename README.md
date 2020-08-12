@@ -93,7 +93,7 @@ La interconexión de estos elementos es la siguiente:
 En la pantalla LCD insertamos dos elementos un TextField (nombre=Programador) y un IntegerField (nombre=Contador), el primero se utiliza para desplegar el nombre del Programador y el segundo para desplegar el contador.
 Para enviar la información a la pantalla LCD conectamos los Pines 4, 5, 6,7 del Arduino a los pines Data4, Data5, Data6 y Data7 de la Pantalla LCD. 
 Para las señales de control de la pantalla Conectamos los pines  Register Select y Enable del LCD a los pines 8 y 9 del Arduino respectivamente
-Para implementar el contador conectamos el Pin 3 del Arduino (en este pin está conectado el Pulsador digital) a la línea In del Counter, y la salida Out del Counter le conectamos al línea In del IntegerField (Contador).
+Para implementar el contador conectamos el Pin 10 del Arduino (en este pin está conectado el Pulsador digital) a la línea In del Counter, y la salida Out del Counter le conectamos al línea In del IntegerField (Contador).
 En el Anexo 3 se presenta la Gráfica de la Solución.
 ## 7. APORTACIONES
 Para implementar la misma solución se lo puede realizar utilizando directamente el IDE de Arduino y con el siguiente Sketch de solamente 35 líneas:
