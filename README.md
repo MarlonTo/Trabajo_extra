@@ -1,6 +1,6 @@
 # Trabajo_extra
 ## 1.PLANTEAMIENTO DEL PROBLEMA
-Investigar las funcionalidades del  IDE de programación VISUINO desarrollando un  programa  que controle una pantalla LCD de 16 líneas y 2 columnas
+Investigar las funcionalidades del  IDE de programación VISUINO desarrollando un  programa  que controle una pantalla LCD de 16 columnas y 2 lineas.
 ## 2.OBJETIVOS
 ### General:
 
@@ -10,7 +10,7 @@ Investigar las funcionalidades del  IDE de programación VISUINO desarrollando u
 
 Explicación del ambiente de Desarrollo de  VSUINO
 
-Diseño y desarrollo de un programa que utilice una pantalla LCD de 16 líneas y 2 columnas
+Diseño y desarrollo de un programa que utilice una pantalla LCD de 
 
 Realizar un video tutorial del desarrollo del programa
 ## 3.ESTADO DEL ARTE
