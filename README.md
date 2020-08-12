@@ -2,12 +2,16 @@
 ## 1.PLANTEAMIENTO DEL PROBLEMA
 Investigar las funcionalidades del  IDE de programación VISUINO desarrollando un  programa  que controle una pantalla LCD de 16 líneas y 2 columnas
 ## 2.OBJETIVOS
-Realizar un tutorial que documente el desarrollo de un programa en el IDE VISUINO utilizando las funcionalidades de una pantalla LCD.
 ### General:
-  Realizar un tutorial en la plataforma de Visual Visuino con componentes de video.
+
+  Realizar un tutorial que documente el desarrollo de un programa en el IDE VISUINO utilizando las funcionalidades de una pantalla LCD.
+  
 ### Específicos:
- Explicación del ambiente de Desarrollo de  VSUINO
+
+Explicación del ambiente de Desarrollo de  VSUINO
+
 Diseño y desarrollo de un programa que utilice una pantalla LCD de 16 líneas y 2 columnas
+
 Realizar un video tutorial del desarrollo del programa
 ## 3.ESTADO DEL ARTE
 VISUINO es un software innovador de la casa de Software Mitov Software. Es un entorno de programación visual para placas Arduino y Compatibles. La aplicación está diseñada para el manejo de elementos gráficos utilizando el método   arrastrar y soltar. 
